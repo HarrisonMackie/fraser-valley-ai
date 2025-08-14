@@ -158,6 +158,15 @@ ul li::before {
 .glass-section h2 {
   margin-bottom: 1rem;
   color: #0f172a;
+  display: flex;
+  align-items: center;
+}
+
+/* Small logo used in section headings */
+.section-logo {
+  width: 40px;
+  height: auto;
+  margin-right: 0.5rem;
 }
 
 .packages {
